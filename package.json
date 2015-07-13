@@ -1,0 +1,14 @@
+{
+  "name": "taxi_parser",
+  "version": "1.0.0",
+  "description": "Парсинг сайта с данными по такси Ростовской области",
+  "main": "parse-rostov.js",
+  "dependencies": {
+    "cheerio": "~0.19.0",
+    "node-horseman": "~1.5.2",
+    "lodash": "~3.10.0"
+  },
+  "devDependencies": {},
+  "author": "tengri",
+  "license": "BSD-2-Clause"
+}
